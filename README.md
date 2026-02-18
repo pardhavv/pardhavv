@@ -60,9 +60,8 @@ Git, GitHub, Jupyter Notebook, VS Code
 
 ## 📫 Connect With Me
 
-LinkedIn: [Add Link]  
-Email: [Add Email]
+LinkedIn: [https://www.linkedin.com/in/pardhavv/]  
+Email: [work.pardhav@gmail.com]
 
 ---
 
-⭐ Building today for the AI systems of tomorrow.
