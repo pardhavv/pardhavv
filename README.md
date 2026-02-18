@@ -52,11 +52,6 @@ Git, GitHub, Jupyter Notebook, VS Code
 - Learning scalable AI architecture  
 
 ---
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pardhavv &show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
