@@ -54,7 +54,7 @@ Git, GitHub, Jupyter Notebook, VS Code
 ---
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pardhavv&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pardhavv &show_icons=true)
 
 ---
 
