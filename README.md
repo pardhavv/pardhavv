@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m focused on building end-to-end AI systems that move from raw data → intelligent decisions.
+Hi, I’m Pardhav, currently working as a Machine Learning Intern at the AI Lab, Indian Institute of Science. My work centers on computer vision and the development of deep learning algorithms.
 
 My core interests:
 - 🧠 Large Language Models (LLMs)
@@ -19,7 +19,7 @@ My core interests:
 - 📊 Anomaly Detection for Industrial Systems
 - ⚙️ MLOps & Production Deployment
 
-I believe in designing AI solutions that are scalable, explainable, and production-ready.
+This space is where I share what I’m learning, building, and discovering along the way.
 
 ---
 
