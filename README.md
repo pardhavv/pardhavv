@@ -4,7 +4,7 @@
 <p align="center">
 📍 Bengaluru, India  
 ⚡ Building scalable AI systems, not just models  
-🎯 Interested in LLMs, Computer Vision, Anomaly Detection & MLOps
+🎯 Interested in LLMs, Computer Vision, VLMs and Agentic Models.
 </p>
 
 ---
@@ -15,8 +15,8 @@ Hi, I’m Pardhav, currently working as a Machine Learning Intern at the AI Lab,
 
 My core interests:
 - 🧠 Large Language Models (LLMs)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 📊 Anomaly Detection for Industrial Systems
+- 🔎 CV & Retrieval-Augmented Generation (RAG)
+- 📊 VLMs and Agentic Systems
 - ⚙️ MLOps & Production Deployment
 
 This space is where I share what I’m learning, building, and discovering along the way.
@@ -26,7 +26,7 @@ This space is where I share what I’m learning, building, and discovering along
 ## 🛠 Tech Stack
 
 **Programming:**  
-Python  
+Python, SQL
 
 **Machine Learning & AI:**  
 Scikit-Learn, PyTorch, TensorFlow/Keras, Model Evaluation, Hyperparameter Tuning  
